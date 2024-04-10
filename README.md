@@ -1,2 +1,2 @@
 # mi-formulario
-Html CSS, JAVASCRIP
+Html CSS, JAVASCRIPT
